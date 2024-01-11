@@ -10,4 +10,6 @@ My recollection was that this was developed on a C64 with a 1541 diskette drive 
 
 ![xargon_wars_main](https://github.com/anthonyjclarke/XargonWarsC16/assets/9491428/ab2d0179-f8a4-49a8-a8dd-d72131631ecf)
 
+https://www.youtube.com/watch?v=juo4idJjhf4
+
 Code is shared for non-commercial use and historical purposes only
